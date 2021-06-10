@@ -4,7 +4,7 @@
 
 **PCBs already designed**:
 
-Board_1: On this board will be place the PIC Microcontroller, battery charger IC and battery level monitor.
+Board_1: PIC Microcontroller, battery charger IC and battery level monitor.
 
 <img src="https://github.com/RicardoATB/li-ion-bat-monitor/blob/main/HARDWARE/board-top_1.png" width="90%" height="90%" /><br /><br />
 

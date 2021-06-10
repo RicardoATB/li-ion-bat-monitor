@@ -1,6 +1,6 @@
 **[under development)**<br /><br />
 
-**Project Description**: Microcontroller programmed in C to monitor the battery status of an Electric RC car through the use of I2C protocol.<br /><br />
+**Project description**: Microcontroller programmed in C to monitor the battery status of an Electric RC car through the use of I2C protocol.<br /><br />
 
 **PCBS already designed**:
 

@@ -2,7 +2,7 @@
 
 **Description**: Microcontroller programmed in C to monitor the battery status of an Electric RC car through the use of I2C protocol.<br /><br />
 
-**PCBS already designed**:
+**PCBs already designed**:
 
 Board_1: On this board will be place the PIC Microcontroller, battery charger IC and battery level monitor.
 

@@ -2,4 +2,6 @@
 
 Microcontroller programmed in C to monitor the battery status of an Electric RC car through the use of I2C protocol.
 
-Hardware part done.
+**PCBS already designed**:
+
+<img src="https://github.com/RicardoATB/li-ion-bat-monitor/blob/main/HARDWARE/board-top_1.png" width="70%" height="70%" />

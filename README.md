@@ -4,4 +4,4 @@ Microcontroller programmed in C to monitor the battery status of an Electric RC 
 
 **PCBS already designed**:
 
-<img src="https://github.com/RicardoATB/li-ion-bat-monitor/blob/main/HARDWARE/board-top_1.png" width="70%" height="70%" />
+<img src="https://github.com/RicardoATB/li-ion-bat-monitor/blob/main/HARDWARE/board-top_1.png" width="90%" height="90%" />
